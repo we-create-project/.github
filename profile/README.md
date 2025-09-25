@@ -1,3 +1,4 @@
+<img width="2500" height="591" alt="wecreateproject-banner" src="https://github.com/user-attachments/assets/69879a3d-bfd6-44d8-95ca-7e5013ed70dd" />
   👋🏾 Creative tech agency passionate by new reality.
 
   👀 We don't follow conventional marketing patterns, we destroy and recreate them.
