@@ -1,4 +1,4 @@
-<img width="4000" height="1756" alt="WeCP_FBcover" src="https://github.com/user-attachments/assets/1485db5b-e863-4743-895a-d7b65aa07e80" />
+<img width="4000" height="1756" alt="we-create-project-banner" src="https://github.com/user-attachments/assets/1485db5b-e863-4743-895a-d7b65aa07e80" />
   
   👋🏾 Creative tech agency passionate by new reality.
 
