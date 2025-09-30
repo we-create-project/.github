@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://wecreateproject.com">
     <picture>
-    <img alt="we create project banner" src="https://github.com/user-attachments/assets/1485db5b-e863-4743-895a-d7b65aa07e80" width="1200" height="auto">
+    <img alt="we create project banner" src="https://github.com/user-attachments/assets/1485db5b-e863-4743-895a-d7b65aa07e80" width="auto" height="auto">
     </picture>
   </a>
 </p>
