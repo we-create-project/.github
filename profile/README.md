@@ -35,7 +35,7 @@ If you discover a security vulnerability, please follow our [Security Policy](ht
 Join the conversation and connect with the we create project community:
 
 - [Connect](https://wecreateproject.com/contact)
-- [X (Twitter)](https://twitter.com/wecreateproject)
+- [X (Twitter)](https://x.com/wecreateproject)
 - [Farcaster](https://farcaster.xyz/wecreateproject.eth)
 
 ---
