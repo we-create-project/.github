@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://wecreateproject.com">
+  <a href="https://wecreateproject.com" target="_blank" rel="noopener noreferrer">
     <picture>
     <img alt="we create project banner" src="https://github.com/user-attachments/assets/1485db5b-e863-4743-895a-d7b65aa07e80" width="auto" height="auto">
     </picture>
@@ -18,9 +18,9 @@ We don't follow conventional marketing patterns, we destroy and recreate them.
 
 We know what will transform and lift a brand higher, we carry your brand to the top in the digital transformation wave of the future.
 
-- **Website:** [wecreateproject.com](https://wecreateproject.com)
-- **Blog:** [blog.wecreateproject.com](https://wecreateproject.com/blog)
-- **Social:** [social.wecreateproject.com](http://social.wecreateproject.com)
+- **Website:** <a href="https://wecreateproject.com" target="_blank" rel="noopener noreferrer">wecreateproject.com</a>
+- **Blog:** <a href="https://wecreateproject.com/blog" target="_blank" rel="noopener noreferrer">blog.wecreateproject.com</a>
+- **Social:** <a href="http://social.wecreateproject.com" target="_blank" rel="noopener noreferrer">social.wecreateproject.com</a>
 
 ## 🤝 Contributing
 
@@ -28,16 +28,16 @@ We welcome contributions from everyone!
 
 ## 🛡️ Security
 
-If you discover a security vulnerability, please follow our [Security Policy](https://wecreateproject.com) for responsible disclosure.
+If you discover a security vulnerability, please follow our <a href="https://wecreateproject.com" target="_blank" rel="noopener noreferrer">Security Policy</a> for responsible disclosure.
 
 ## 💬 Community
 
 Join the conversation and connect with the we create project community:
 
-- [Connect](https://wecreateproject.com/contact)
-- [LinkedIn](http://linkedin.wecreateproject.com)
-- [X (Twitter)](http://x.wecreateproject.com)
-- [Farcaster](https://farcaster.xyz/wecreateproject.eth)
+- <a href="https://wecreateproject.com/contact" target="_blank" rel="noopener noreferrer">Connect</a>
+- <a href="http://linkedin.wecreateproject.com" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+- <a href="http://x.wecreateproject.com" target="_blank" rel="noopener noreferrer">X / Twitter</a>
+- <a href="https://farcaster.xyz/wecreateproject.eth" target="_blank" rel="noopener noreferrer">Farcaster</a>
 
 ---
 
