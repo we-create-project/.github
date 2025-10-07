@@ -1,5 +1,5 @@
 
-## 👋🏾 Welcome to the we create project GitHub
+## 👋🏾 Welcome to the we create project github
 
 <p align="center">
   <a href="https://wecreateproject.com" target="_blank" rel="noopener noreferrer">
